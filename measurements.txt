@@ -1,0 +1,32 @@
+==========
+CPU count:     4
+==========
+Warmup iterations:     3
+BFS with type:     SEQUENTIAL_BFS
+Iteration 1:     26134 millis
+Iteration 2:     26357 millis
+Iteration 3:     26201 millis
+Avg time:     26230.666667 millis
+BFS with type:     PARALLEL_BFS
+Block size:     2000
+Iteration 1:     11660 millis
+Iteration 2:     11666 millis
+Iteration 3:     11682 millis
+Avg time:     11669.333333 millis
+==========
+Measure iterations:     5
+BFS with type:     SEQUENTIAL_BFS
+Iteration 1:     26161 millis
+Iteration 2:     26362 millis
+Iteration 3:     26392 millis
+Iteration 4:     26262 millis
+Iteration 5:     26224 millis
+Avg time:     26280.200000 millis
+BFS with type:     PARALLEL_BFS
+Block size:     2000
+Iteration 1:     11676 millis
+Iteration 2:     11720 millis
+Iteration 3:     11697 millis
+Iteration 4:     11670 millis
+Iteration 5:     11639 millis
+Avg time:     11680.400000 millis
